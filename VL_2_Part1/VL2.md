@@ -56,5 +56,7 @@ _Autoren: Diana Kirzhner, Hendrik..._
 * viele unterschiedliche 
 * es gibt 6 grundlegende gemeinsame Phasen
 
+![Bild7](/VL_2_Part1/Bilder_VL2/Bild7.jpg?raw=true "Phasen der Softwaretechnik: Wasserfallmodell")
+----------------------------------------------------------------------------------------------------------------
 ![VM](/VL_2_Part1/Bilder_VL2/VM.jpg?raw=true "Vorgehensmodell")
 -----------------------------------------------------------------------------------------------------------------
