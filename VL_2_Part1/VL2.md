@@ -24,7 +24,7 @@ _Autoren: Diana Kirzhner, Hendrik..._
 * besseren Wartbarkeit  
 * schnelleren Fehlerbehebung  
 
-![Bild1](/Bilder_VL2/Bild1.jpg?raw=true "Einfaches Vorgehensmodell")
+![Bild1](/VL_2_Part1/Bilder_VL2/Bild1.jpg?raw=true "Einfaches Vorgehensmodell")
 
 
 
