@@ -12,8 +12,9 @@ Autoren: Diana Kirzhner, Hendrik...
 * strukturiert den Softwareentwicklungsprozess
 * beschreibt Ablauf Softwareentwicklung
 * macht Softwareentwicklungsprozess  
-+ transparenter  
-+ planbar  
+++ transparenter  
+
+** planbar  
 ** nachvollziehbar  
 ** kontrollierbar  
 ** lehrbar  
