@@ -1,5 +1,5 @@
 # Software Engineering  
-Autoren: Diana Kirzhner, Hendrik...
+_Autoren: Diana Kirzhner, Hendrik..._
 
 ## Lernziele  
 * Was ist ein Vorgehensmodell für die Softwareentwicklung  
