@@ -24,6 +24,15 @@ _Autoren: Diana Kirzhner, Hendrik..._
 * besseren Wartbarkeit  
 * schnelleren Fehlerbehebung  
 
+![Bild1](/BilderVorlesung1/Eisberg.png?raw=true "Eisberg der Software")
+
+
+
+
+
+
+
+
 ## „Phasenmodell“ als Beispiel für ein primitives Vorgehensmodell  
 * **entspricht nicht der Realität**
 * aufteilung Projektablaufes in Phasen  
