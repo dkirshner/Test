@@ -49,7 +49,15 @@ _Autoren: Diana Kirzhner, Hendrik..._
 ![Bild6](/VL_2_Part1/Bilder_VL2/Bild6.jpg?raw=true "Phase_Bild")
 -----------------------------------------------------------------------------------------------------------------
 
+##Vorgehensmodelle
 
+* nicht ideal
+* muss zum Projekt und zum Menschen passen
+* viele unterschiedliche 
+* es gibt 6 grundlegende gemeinsame Phasen
 
-
+![Bild6](/VL_2_Part1/Bilder_VL2/Bild6.jpg?raw=true "Phase_Bild")
+-----------------------------------------------------------------------------------------------------------------
+![Bild6](/VL_2_Part1/Bilder_VL2/Bild6.jpg?raw=true "Phase_Bild")
+-----------------------------------------------------------------------------------------------------------------
 
