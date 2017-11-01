@@ -12,7 +12,7 @@ Autoren: Diana Kirzhner, Hendrik...
 * strukturiert den Softwareentwicklungsprozess
 * beschreibt Ablauf Softwareentwicklung
 * macht Softwareentwicklungsprozess  
-++ transparenter  
++ transparenter  
 
 ** planbar  
 ** nachvollziehbar  
