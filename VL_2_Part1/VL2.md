@@ -25,13 +25,13 @@ _Autoren: Diana Kirzhner, Hendrik..._
 * schnelleren Fehlerbehebung  
 
 ![Bild1](/VL_2_Part1/Bilder_VL2/Bild1.jpg?raw=true "Einfaches Vorgehensmodell")
-
+-----------------------------------------------------------------------------------------------------------------
 ![Bild2](/VL_2_Part1/Bilder_VL2/Bild2.jpg?raw=true "Verbesertes Vorgehensmodell")
-
+-----------------------------------------------------------------------------------------------------------------
 ![Bild3](/VL_2_Part1/Bilder_VL2/Bild3.jpg?raw=true "Noch besseres Vorgehensmodell")
-
+-----------------------------------------------------------------------------------------------------------------
 ![Bild4](/VL_2_Part1/Bilder_VL2/Bild4.jpg?raw=true "Noch besseres Vorgehensmodell")
-
+-----------------------------------------------------------------------------------------------------------------
 
 
 
