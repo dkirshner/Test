@@ -49,7 +49,7 @@ _Autoren: Diana Kirzhner, Hendrik..._
 ![Bild6](/VL_2_Part1/Bilder_VL2/Bild6.jpg?raw=true "Phase_Bild")
 -----------------------------------------------------------------------------------------------------------------
 
-##Vorgehensmodelle
+## Vorgehensmodelle
 
 * nicht ideal
 * muss zum Projekt und zum Menschen passen
