@@ -56,8 +56,5 @@ _Autoren: Diana Kirzhner, Hendrik..._
 * viele unterschiedliche 
 * es gibt 6 grundlegende gemeinsame Phasen
 
-![Bild6](/VL_2_Part1/Bilder_VL2/Bild6.jpg?raw=true "Phase_Bild")
+![VM](/VL_2_Part1/Bilder_VL2/VM.jpg?raw=true "Vorgehensmodell")
 -----------------------------------------------------------------------------------------------------------------
-![Bild6](/VL_2_Part1/Bilder_VL2/Bild6.jpg?raw=true "Phase_Bild")
------------------------------------------------------------------------------------------------------------------
-
