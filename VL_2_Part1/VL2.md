@@ -33,12 +33,6 @@ _Autoren: Diana Kirzhner, Hendrik..._
 ![Bild4](/VL_2_Part1/Bilder_VL2/Bild4.jpg?raw=true "Noch besseres Vorgehensmodell")
 -----------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
 ## „Phasenmodell“ als Beispiel für ein primitives Vorgehensmodell  
 * **entspricht nicht der Realität**
 * aufteilung Projektablaufes in Phasen  
@@ -46,5 +40,15 @@ _Autoren: Diana Kirzhner, Hendrik..._
 * Zu einem Zeitpunkt wird genau eine Phase durchlaufen  
 * Anzahl, Dauer und Bezeichnung der Phasen sind nicht fest vorgegeben  
 * streng sequentionell  
-* keine Iterationen  
+* keine Iterationen  
+-----------------------------------------------------------------------------------------------------------------
+![Bild5](/VL_2_Part1/Bilder_VL2/Bild5.jpg?raw=true "Phasenmodell")
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
 
