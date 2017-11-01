@@ -7,17 +7,16 @@ Autoren: Diana Kirzhner, Hendrik...
 * Vor- und Nachteile Vorgehensmodelle
 * kennenlernen von XP und Scrum  
 
-## Vorgehensmodelle
+## Vorgehensmodelle  
 **Definition:** vereinfachte Beschreibung eines Softwareentwicklungsprozesses  
 * strukturiert den Softwareentwicklungsprozess
 * beschreibt Ablauf Softwareentwicklung
 * macht Softwareentwicklungsprozess  
    * transparenter  
-
-** planbar  
-** nachvollziehbar  
-** kontrollierbar  
-** lehrbar  
+   * planbar   
+   * nachvollziehbar  
+   * kontrollierbar  
+   * lehrbar  
 
 **Dient für:**
 * erhöhte Qualität und Änderungsfreundlichkeit
